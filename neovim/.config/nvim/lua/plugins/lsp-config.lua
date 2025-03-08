@@ -28,7 +28,7 @@ return {
         { "<F2>", vim.lsp.buf.definition },
         { "<leader>ca", vim.lsp.buf.code_action },
         { "<F3>", vim.lsp.buf.implementation },
-        { "<leader>cl", vim.lsp.buf.references },
+        { "<leader>cr", vim.lsp.buf.references },
       }
     end,
   },
