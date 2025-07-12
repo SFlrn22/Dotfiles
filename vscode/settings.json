@@ -1,0 +1,66 @@
+{
+  "workbench.startupEditor": "none",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "mssql.objectExplorer.groupBySchema": false,
+  "mssql.connections": [
+    {
+      "server": "localhost",
+      "database": "",
+      "authenticationType": "Integrated",
+      "profileName": "MSSQL",
+      "encrypt": "Mandatory",
+      "trustServerCertificate": true,
+      "user": "",
+      "password": "",
+      "connectTimeout": 15,
+      "commandTimeout": 30,
+      "applicationName": "vscode-mssql"
+    }
+  ],
+  "workbench.layoutControl.enabled": false,
+  "zenMode.hideLineNumbers": false,
+  "zenMode.centerLayout": false,
+  "zenMode.hideActivityBar": false,
+  "terminal.integrated.env.windows": {},
+  "qt-qml.qmlls.useQmlImportPathEnvVar": true,
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "qt-qml.qmlls.additionalImportPaths": [
+    "/usr/lib64/qt6/qml",
+    "/usr/lib64/qt6/qml/Quickshell"
+  ],
+  "qt-qml.qmlls.customDocsPath": "/usr/lib64/qt6/qml",
+  "workbench.sideBar.location": "right",
+  "workbench.activityBar.location": "top",
+  "workbench.statusBar.visible": true,
+  "workbench.tips.enabled": false,
+  "workbench.editor.showTabs": "multiple",
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "workbench.iconTheme": "material-icon-theme",
+  "window.menuBarVisibility": "toggle",
+  "breadcrumbs.enabled": false,
+  "editor.wordWrap": "on",
+  "editor.fontSize": 16,
+  "editor.mouseWheelZoom": true,
+  "editor.fontFamily": "CaskaydiaCove Nerd Font",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "window.commandCenter": false,
+  "window.density.editorTabHeight": "compact",
+  "window.restoreWindows": "none",
+  "vim.highlightedyank.enable": true,
+  "vim.smartRelativeLine": true,
+  "vim.useSystemClipboard": true,
+  "vim.hlsearch": true,
+  "vim.useCtrlKeys": true,
+  "editor.cursorSurroundingLines": 10,
+  "workbench.editor.editorActionsLocation": "titleBar",
+  "window.customTitleBarVisibility": "never",
+  "window.titleBarStyle": "native",
+  "editor.minimap.enabled": false
+}
+
